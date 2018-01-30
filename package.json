@@ -1,0 +1,27 @@
+{
+  "name": "ipfs-stop",
+  "version": "1.0.0",
+  "description": "Test that ipfs.stop() empties the event loop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardschneider/ipfs-stop.git"
+  },
+  "keywords": [
+    "ipfs",
+    "stop"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardschneider/ipfs-stop/issues"
+  },
+  "homepage": "https://github.com/richardschneider/ipfs-stop#readme",
+  "dependencies": {
+    "ipfs": "*",
+    "wtfnode": "^0.5.7"
+  }
+}
